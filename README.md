@@ -13,6 +13,7 @@ $ cd ./charts-crypto-qml
 
 ## Dependências
 - <a href="https://www.qt.io/blog/qt-5.15.2-released">Qt v5.15.2</a>
+- <a href="https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/8.1.0/">MinGW v8.1.0</a>
 - <a href="https://doc.qt.io/archives/qt-5.11/qtquick-controls2-qmlmodule.html">QtQuick 2</a>
 - <a href="https://doc.qt.io/qt-6/qtcharts-overview.html">QtCharts v2.15</a>
 
